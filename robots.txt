@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://criumphypo.github.io/sitemap.html.gz
+Sitemap: https://criumphypo.github.io/app/sitemap.html.gz
+Sitemap: https://criumphypo.github.io/assets/sitemap.html.gz
+Sitemap: https://criumphypo.github.io/css/sitemap.html.gz
+Sitemap: https://criumphypo.github.io/includes/sitemap.html.gz
+Sitemap: https://criumphypo.github.io/item/sitemap.html.gz
+Sitemap: https://criumphypo.github.io/src/sitemap.html.gz
